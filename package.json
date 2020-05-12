@@ -1,0 +1,30 @@
+{
+  "name": "create-ics",
+  "version": "1.0.0",
+  "description": "Create your own .ics from UCSD calendar webpage.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/florayym/create-ics.git"
+  },
+  "keywords": [
+    "Calendar",
+    "UC San Diego"
+  ],
+  "author": "Qifei Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florayym/create-ics/issues"
+  },
+  "homepage": "https://github.com/florayym/create-ics#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "ical-generator": "^1.10.0",
+    "request": "^2.88.2"
+  }
+}
