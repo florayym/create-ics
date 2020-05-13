@@ -4,1311 +4,1982 @@ PRODID:-//students.ucsd.edu//university-cal-generator//EN
 NAME:UC San Diego Enrollment & Registration Calendar 2020-21
 X-WR-CALNAME:UC San Diego Enrollment & Registration Calendar 2020-21
 BEGIN:VEVENT
-UID:h7h1@undefined
+UID:q79s@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200226
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline for academic advising offices to submit degree au
- dits to Registrar
-X-ALT-DESC;FMTTYPE=text/html:Deadline for academic advising offices to sub
- mit degree audits to Registrar
+SUMMARY:Fall20 Deadline for academic advising offices to submit degree aud
+ its to Registrar
+DESCRIPTION:Deadline for academic advising offices to submit degree audits
+  to Registrar
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline for academic advising offices to submit degree
+  audits to Registrar
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zt50@undefined
+UID:8gns@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210514
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline for academic advising offices to submit degree 
- audits to Registrar
-X-ALT-DESC;FMTTYPE=text/html:Deadline for academic advising offices to sub
- mit degree audits to Registrar
+SUMMARY:Winter21 Deadline for academic advising offices to submit degree a
+ udits to Registrar
+DESCRIPTION:Deadline for academic advising offices to submit degree audits
+  to Registrar
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline for academic advising offices to submit degr
+ ee audits to Registrar
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:w3ki@undefined
+UID:kb8x@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210813
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline for academic advising offices to submit degree 
- audits to Registrar
-X-ALT-DESC;FMTTYPE=text/html:Deadline for academic advising offices to sub
- mit degree audits to Registrar
+SUMMARY:Spring21 Deadline for academic advising offices to submit degree a
+ udits to Registrar
+DESCRIPTION:Deadline for academic advising offices to submit degree audits
+  to Registrar
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline for academic advising offices to submit degr
+ ee audits to Registrar
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:t3a5@undefined
+UID:pcf3@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200508
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline to enter holds for the enrollment/registration cy
- cle
-X-ALT-DESC;FMTTYPE=text/html:Deadline to enter holds for the enrollment/re
- gistration cycle
+SUMMARY:Fall20 Deadline to enter holds for the enrollment/registration cyc
+ le
+DESCRIPTION:Deadline to enter holds for the enrollment/registration cycle
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline to enter holds for the enrollment/registration
+  cycle
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:eu4t@undefined
+UID:qywi@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline to enter holds for the enrollment/registration 
- cycle
-X-ALT-DESC;FMTTYPE=text/html:Deadline to enter holds for the enrollment/re
- gistration cycle
+SUMMARY:Winter21 Deadline to enter holds for the enrollment/registration c
+ ycle
+DESCRIPTION:Deadline to enter holds for the enrollment/registration cycle
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline to enter holds for the enrollment/registrati
+ on cycle
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:s7m3@undefined
+UID:20iw@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210203
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline to enter holds for the enrollment/registration 
- cycle
-X-ALT-DESC;FMTTYPE=text/html:Deadline to enter holds for the enrollment/re
- gistration cycle
+SUMMARY:Spring21 Deadline to enter holds for the enrollment/registration c
+ ycle
+DESCRIPTION:Deadline to enter holds for the enrollment/registration cycle
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline to enter holds for the enrollment/registrati
+ on cycle
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bwm6@undefined
+UID:2z3c@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200519
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Schedule of Classes available
-X-ALT-DESC;FMTTYPE=text/html:<a href=\"https://act.ucsd.edu/cgi-bin/triton
- link.pl/2/students/academic/classes/schedule_of_classes.pl\">Schedule of C
- lasses</a> available
+SUMMARY:Fall20 Schedule of Classes available
+DESCRIPTION:<a href=\"https://act.ucsd.edu/cgi-bin/tritonlink.pl/2/student
+ s/academic/classes/schedule_of_classes.pl\">Schedule of Classes</a> availa
+ ble
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Schedule of Classes available
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:klma@undefined
+UID:fhnk@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211106
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Schedule of Classes available
-X-ALT-DESC;FMTTYPE=text/html:<a href=\"https://act.ucsd.edu/cgi-bin/triton
- link.pl/2/students/academic/classes/schedule_of_classes.pl\">Schedule of C
- lasses</a> available
+SUMMARY:Winter21 Schedule of Classes available
+DESCRIPTION:<a href=\"https://act.ucsd.edu/cgi-bin/tritonlink.pl/2/student
+ s/academic/classes/schedule_of_classes.pl\">Schedule of Classes</a> availa
+ ble
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Schedule of Classes available
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:w5d2@undefined
+UID:7mtz@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210205
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Schedule of Classes available
-X-ALT-DESC;FMTTYPE=text/html:<a href=\"https://act.ucsd.edu/cgi-bin/triton
- link.pl/2/students/academic/classes/schedule_of_classes.pl\">Schedule of C
- lasses</a> available
+SUMMARY:Spring21 Schedule of Classes available
+DESCRIPTION:<a href=\"https://act.ucsd.edu/cgi-bin/tritonlink.pl/2/student
+ s/academic/classes/schedule_of_classes.pl\">Schedule of Classes</a> availa
+ ble
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Schedule of Classes available
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ipan@undefined
+UID:pfnv@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200504
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Academic advising begins
-X-ALT-DESC;FMTTYPE=text/html:Academic advising begins
+SUMMARY:Fall20 Academic advising begins
+DESCRIPTION:Academic advising begins
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Academic advising begins
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:gre3@undefined
+UID:r0sz@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211109
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Academic advising begins
-X-ALT-DESC;FMTTYPE=text/html:Academic advising begins
+SUMMARY:Winter21 Academic advising begins
+DESCRIPTION:Academic advising begins
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Academic advising begins
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:mlao@undefined
+UID:33o8@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210208
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Academic advising begins
-X-ALT-DESC;FMTTYPE=text/html:Academic advising begins
+SUMMARY:Spring21 Academic advising begins
+DESCRIPTION:Academic advising begins
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Academic advising begins
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jeea@undefined
+UID:7jm8@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200514
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Effective date for enrollment holds
-X-ALT-DESC;FMTTYPE=text/html:Effective date for enrollment holds
+SUMMARY:Fall20 Effective date for enrollment holds
+DESCRIPTION:Effective date for enrollment holds
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Effective date for enrollment holds
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ey28@undefined
+UID:mw9r@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211110
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Effective date for enrollment holds
-X-ALT-DESC;FMTTYPE=text/html:Effective date for enrollment holds
+SUMMARY:Winter21 Effective date for enrollment holds
+DESCRIPTION:Effective date for enrollment holds
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Effective date for enrollment holds
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:77np@undefined
+UID:67fr@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210209
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Effective date for enrollment holds
-X-ALT-DESC;FMTTYPE=text/html:Effective date for enrollment holds
+SUMMARY:Spring21 Effective date for enrollment holds
+DESCRIPTION:Effective date for enrollment holds
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Effective date for enrollment holds
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zkkn@undefined
+UID:mbse@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200522
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Enrollment begins for all continuing students
-X-ALT-DESC;FMTTYPE=text/html:Enrollment begins for all continuing students
+SUMMARY:Fall20 Enrollment begins for all continuing students
+DESCRIPTION:Enrollment begins for all continuing students
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Enrollment begins for all continuing students
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ueof@undefined
+UID:exgl@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211111
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Enrollment begins for all continuing students
-X-ALT-DESC;FMTTYPE=text/html:Enrollment begins for all continuing students
+SUMMARY:Winter21 Enrollment begins for all continuing students
+DESCRIPTION:Enrollment begins for all continuing students
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Enrollment begins for all continuing students
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9twk@undefined
+UID:wose@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210210
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Enrollment begins for all continuing students
-X-ALT-DESC;FMTTYPE=text/html:Enrollment begins for all continuing students
+SUMMARY:Spring21 Enrollment begins for all continuing students
+DESCRIPTION:Enrollment begins for all continuing students
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Enrollment begins for all continuing students
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:slcq@undefined
+UID:hqnl@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200601
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Wait Lists Open
-X-ALT-DESC;FMTTYPE=text/html:Wait Lists Open
+SUMMARY:Fall20 Wait Lists Open
+DESCRIPTION:Wait Lists Open
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Wait Lists Open
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kqdf@undefined
+UID:e4mh@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211123
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Wait Lists Open
-X-ALT-DESC;FMTTYPE=text/html:Wait Lists Open
+SUMMARY:Winter21 Wait Lists Open
+DESCRIPTION:Wait Lists Open
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Wait Lists Open
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f9hs@undefined
+UID:jo2l@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210222
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Wait Lists Open
-X-ALT-DESC;FMTTYPE=text/html:Wait Lists Open
+SUMMARY:Spring21 Wait Lists Open
+DESCRIPTION:Wait Lists Open
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Wait Lists Open
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:rmve@undefined
+UID:icgr@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200824
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Effective date for fee payment holds
-X-ALT-DESC;FMTTYPE=text/html:Effective date for fee payment holds
+SUMMARY:Fall20 Effective date for fee payment holds
+DESCRIPTION:Effective date for fee payment holds
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Effective date for fee payment holds
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:xkvx@undefined
+UID:ad4w@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211123
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Effective date for fee payment holds
-X-ALT-DESC;FMTTYPE=text/html:Effective date for fee payment holds
+SUMMARY:Winter21 Effective date for fee payment holds
+DESCRIPTION:Effective date for fee payment holds
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Effective date for fee payment holds
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dh2w@undefined
+UID:kj1k@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210218
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Effective date for fee payment holds
-X-ALT-DESC;FMTTYPE=text/html:Effective date for fee payment holds
+SUMMARY:Spring21 Effective date for fee payment holds
+DESCRIPTION:Effective date for fee payment holds
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Effective date for fee payment holds
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:xg4h@undefined
+UID:7hdo@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200810
+DTEND;VALUE=DATE:20200816
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: New Undergraduate student enrollment begins(New Graduate s
- tudents check with your program)
-X-ALT-DESC;FMTTYPE=text/html:\n<p>New Undergraduate student enrollment beg
- ins</p>\n<p>(New Graduate students check with your program)</p>\n
+SUMMARY:Fall20 New Undergraduate student enrollment begins(New Graduate st
+ udents check with your program)
+DESCRIPTION:\n<p>New Undergraduate student enrollment begins</p>\n<p>(New 
+ Graduate students check with your program)</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 New Undergraduate student enrollment begins(New Graduat
+ e students check with your program)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:xm0u@undefined
+UID:8q6l@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200814
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline to apply for readmission (Undergraduate students)
-X-ALT-DESC;FMTTYPE=text/html:Deadline to <a href=\"http://students.ucsd.ed
- u/academics/enroll/special-enrollment/readmission-to-ucsd.html\">apply for
-  readmission</a>(Undergraduate students)
+SUMMARY:Fall20 Deadline to apply for readmission (Undergraduate students)
+DESCRIPTION:Deadline to <a href=\"http://students.ucsd.edu/academics/enrol
+ l/special-enrollment/readmission-to-ucsd.html\">apply for readmission</a>(
+ Undergraduate students)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline to apply for readmission (Undergraduate studen
+ ts)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:w8te@undefined
+UID:frfc@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211106
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline to apply for readmission (Undergraduate student
- s)
-X-ALT-DESC;FMTTYPE=text/html:Deadline to <a href=\"http://students.ucsd.ed
- u/academics/enroll/special-enrollment/readmission-to-ucsd.html\">apply for
-  readmission</a>(Undergraduate students)
+SUMMARY:Winter21 Deadline to apply for readmission (Undergraduate students
+ )
+DESCRIPTION:Deadline to <a href=\"http://students.ucsd.edu/academics/enrol
+ l/special-enrollment/readmission-to-ucsd.html\">apply for readmission</a>(
+ Undergraduate students)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline to apply for readmission (Undergraduate stud
+ ents)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fec2@undefined
+UID:jrht@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210129
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline to apply for readmission (Undergraduate student
- s)
-X-ALT-DESC;FMTTYPE=text/html:Deadline to <a href=\"http://students.ucsd.ed
- u/academics/enroll/special-enrollment/readmission-to-ucsd.html\">apply for
-  readmission</a>(Undergraduate students)
+SUMMARY:Spring21 Deadline to apply for readmission (Undergraduate students
+ )
+DESCRIPTION:Deadline to <a href=\"http://students.ucsd.edu/academics/enrol
+ l/special-enrollment/readmission-to-ucsd.html\">apply for readmission</a>(
+ Undergraduate students)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline to apply for readmission (Undergraduate stud
+ ents)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0r5l@undefined
+UID:d2je@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200902
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Billing statement available on TritonLink. (eBill availabl
- e continuing students)
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Billing statement available on<a href=\"
- http://students.ucsd.edu/\">TritonLink.</a> (eBill available continuing st
- udents)</p>\n
+SUMMARY:Fall20 Billing statement available on TritonLink. (eBill available
+  continuing students)
+DESCRIPTION:\n<p>Billing statement available on<a href=\"http://students.u
+ csd.edu/\">TritonLink.</a> (eBill available continuing students)</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Billing statement available on TritonLink. (eBill avail
+ able continuing students)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bhwg@undefined
+UID:11kp@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211202
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Billing statement available on TritonLink. (eBill availa
- ble continuing students)
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Billing statement available on<a href=\"
- http://students.ucsd.edu/\">TritonLink.</a> (eBill available continuing st
- udents)</p>\n
+SUMMARY:Winter21 Billing statement available on TritonLink. (eBill availab
+ le continuing students)
+DESCRIPTION:\n<p>Billing statement available on<a href=\"http://students.u
+ csd.edu/\">TritonLink.</a> (eBill available continuing students)</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Billing statement available on TritonLink. (eBill ava
+ ilable continuing students)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e1u6@undefined
+UID:lozu@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210302
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Billing statement available on TritonLink. (eBill availa
- ble continuing students)
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Billing statement available on<a href=\"
- http://students.ucsd.edu/\">TritonLink.</a> (eBill available continuing st
- udents)</p>\n
+SUMMARY:Spring21 Billing statement available on TritonLink. (eBill availab
+ le continuing students)
+DESCRIPTION:\n<p>Billing statement available on<a href=\"http://students.u
+ csd.edu/\">TritonLink.</a> (eBill available continuing students)</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Billing statement available on TritonLink. (eBill ava
+ ilable continuing students)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4w8t@undefined
+UID:1m5y@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200925
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Registration fee payment deadline (after this date\, late 
- fees apply)
-X-ALT-DESC;FMTTYPE=text/html:Registration fee payment deadline (after this
-  date\, <a href=\"http://students.ucsd.edu/finances/fees/registration/late
- -fees.html\">late fees</a> apply)
+SUMMARY:Fall20 Registration fee payment deadline (after this date\, late f
+ ees apply)
+DESCRIPTION:Registration fee payment deadline (after this date\, <a href=\
+ "http://students.ucsd.edu/finances/fees/registration/late-fees.html\">late
+  fees</a> apply)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Registration fee payment deadline (after this date\, la
+ te fees apply)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:gwwb@undefined
+UID:1zax@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211218
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Registration fee payment deadline (after this date\, lat
- e fees apply)
-X-ALT-DESC;FMTTYPE=text/html:Registration fee payment deadline (after this
-  date\, <a href=\"http://students.ucsd.edu/finances/fees/registration/late
- -fees.html\">late fees</a> apply)
+SUMMARY:Winter21 Registration fee payment deadline (after this date\, late
+  fees apply)
+DESCRIPTION:Registration fee payment deadline (after this date\, <a href=\
+ "http://students.ucsd.edu/finances/fees/registration/late-fees.html\">late
+  fees</a> apply)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Registration fee payment deadline (after this date\, 
+ late fees apply)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zmqs@undefined
+UID:cuw6@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210319
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Registration fee payment deadline (after this date\, lat
- e fees apply)
-X-ALT-DESC;FMTTYPE=text/html:Registration fee payment deadline (after this
-  date\, <a href=\"http://students.ucsd.edu/finances/fees/registration/late
- -fees.html\">late fees</a> apply)
+SUMMARY:Spring21 Registration fee payment deadline (after this date\, late
+  fees apply)
+DESCRIPTION:Registration fee payment deadline (after this date\, <a href=\
+ "http://students.ucsd.edu/finances/fees/registration/late-fees.html\">late
+  fees</a> apply)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Registration fee payment deadline (after this date\, 
+ late fees apply)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7bgh@undefined
+UID:2i0s@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200901
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline for mandatory health insurance waiver - all stude
- nts (after this date\, $50 late waiver fee will apply until late waiver de
- adline\, see below.)
-X-ALT-DESC;FMTTYPE=text/html:Deadline for mandatory health insurance waive
- r - all students (after this date\, $50 late waiver fee will apply until l
- ate waiver deadline\, see below.)
+SUMMARY:Fall20 Deadline for mandatory health insurance waiver - all studen
+ ts (after this date\, $50 late waiver fee will apply until late waiver dea
+ dline\, see below.)
+DESCRIPTION:Deadline for mandatory health insurance waiver - all students 
+ (after this date\, $50 late waiver fee will apply until late waiver deadli
+ ne\, see below.)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline for mandatory health insurance waiver - all st
+ udents (after this date\, $50 late waiver fee will apply until late waiver
+  deadline\, see below.)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:allw@undefined
+UID:tu2y@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211220
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline for mandatory health insurance waiver - all stu
- dents (after this date\, $50 late waiver fee will apply until late waiver 
- deadline\, see below.)
-X-ALT-DESC;FMTTYPE=text/html:Deadline for mandatory health insurance waive
- r - all students (after this date\, $50 late waiver fee will apply until l
- ate waiver deadline\, see below.)
+SUMMARY:Winter21 Deadline for mandatory health insurance waiver - all stud
+ ents (after this date\, $50 late waiver fee will apply until late waiver d
+ eadline\, see below.)
+DESCRIPTION:Deadline for mandatory health insurance waiver - all students 
+ (after this date\, $50 late waiver fee will apply until late waiver deadli
+ ne\, see below.)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline for mandatory health insurance waiver - all 
+ students (after this date\, $50 late waiver fee will apply until late waiv
+ er deadline\, see below.)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:yle0@undefined
+UID:zejb@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210305
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline for mandatory health insurance waiver - all stu
- dents (after this date\, $50 late waiver fee will apply until late waiver 
- deadline\, see below.)
-X-ALT-DESC;FMTTYPE=text/html:Deadline for mandatory health insurance waive
- r - all students (after this date\, $50 late waiver fee will apply until l
- ate waiver deadline\, see below.)
+SUMMARY:Spring21 Deadline for mandatory health insurance waiver - all stud
+ ents (after this date\, $50 late waiver fee will apply until late waiver d
+ eadline\, see below.)
+DESCRIPTION:Deadline for mandatory health insurance waiver - all students 
+ (after this date\, $50 late waiver fee will apply until late waiver deadli
+ ne\, see below.)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline for mandatory health insurance waiver - all 
+ students (after this date\, $50 late waiver fee will apply until late waiv
+ er deadline\, see below.)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:l97k@undefined
+UID:ut7d@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200918
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline for students not attending (who are receiving fin
- ancial aid\, full-fee waivers or graduate fellowships/scholarships) to not
- ify university that they will not attend. See the schedule of refunds for 
- more information.
-X-ALT-DESC;FMTTYPE=text/html:Deadline for students not attending (who are 
- receiving financial aid\, full-fee waivers or graduate fellowships/scholar
- ships) to notify university that they will not attend. See the<a href=\"ht
- tp://students.ucsd.edu/finances/fees/registration/schedule-of-refunds.html
- \">schedule of refunds</a>for more information.
+SUMMARY:Fall20 Deadline for students not attending (who are receiving fina
+ ncial aid\, full-fee waivers or graduate fellowships/scholarships) to noti
+ fy university that they will not attend. See the schedule of refunds for m
+ ore information.
+DESCRIPTION:Deadline for students not attending (who are receiving financi
+ al aid\, full-fee waivers or graduate fellowships/scholarships) to notify 
+ university that they will not attend. See the<a href=\"http://students.ucs
+ d.edu/finances/fees/registration/schedule-of-refunds.html\">schedule of re
+ funds</a>for more information.
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline for students not attending (who are receiving 
+ financial aid\, full-fee waivers or graduate fellowships/scholarships) to 
+ notify university that they will not attend. See the schedule of refunds f
+ or more information.
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3ko7@undefined
+UID:f4ae@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211218
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline for students not attending (who are receiving f
- inancial aid\, full-fee waivers or graduate fellowships/scholarships) to n
- otify university that they will not attend. See the schedule of refunds fo
- r more information.
-X-ALT-DESC;FMTTYPE=text/html:Deadline for students not attending (who are 
- receiving financial aid\, full-fee waivers or graduate fellowships/scholar
- ships) to notify university that they will not attend. See the<a href=\"ht
- tp://students.ucsd.edu/finances/fees/registration/schedule-of-refunds.html
- \">schedule of refunds</a>for more information.
+SUMMARY:Winter21 Deadline for students not attending (who are receiving fi
+ nancial aid\, full-fee waivers or graduate fellowships/scholarships) to no
+ tify university that they will not attend. See the schedule of refunds for
+  more information.
+DESCRIPTION:Deadline for students not attending (who are receiving financi
+ al aid\, full-fee waivers or graduate fellowships/scholarships) to notify 
+ university that they will not attend. See the<a href=\"http://students.ucs
+ d.edu/finances/fees/registration/schedule-of-refunds.html\">schedule of re
+ funds</a>for more information.
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline for students not attending (who are receivin
+ g financial aid\, full-fee waivers or graduate fellowships/scholarships) t
+ o notify university that they will not attend. See the schedule of refunds
+  for more information.
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bskb@undefined
+UID:z5l4@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210319
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline for students not attending (who are receiving f
- inancial aid\, full-fee waivers or graduate fellowships/scholarships) to n
- otify university that they will not attend. See the schedule of refunds fo
- r more information.
-X-ALT-DESC;FMTTYPE=text/html:Deadline for students not attending (who are 
- receiving financial aid\, full-fee waivers or graduate fellowships/scholar
- ships) to notify university that they will not attend. See the<a href=\"ht
- tp://students.ucsd.edu/finances/fees/registration/schedule-of-refunds.html
- \">schedule of refunds</a>for more information.
+SUMMARY:Spring21 Deadline for students not attending (who are receiving fi
+ nancial aid\, full-fee waivers or graduate fellowships/scholarships) to no
+ tify university that they will not attend. See the schedule of refunds for
+  more information.
+DESCRIPTION:Deadline for students not attending (who are receiving financi
+ al aid\, full-fee waivers or graduate fellowships/scholarships) to notify 
+ university that they will not attend. See the<a href=\"http://students.ucs
+ d.edu/finances/fees/registration/schedule-of-refunds.html\">schedule of re
+ funds</a>for more information.
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline for students not attending (who are receivin
+ g financial aid\, full-fee waivers or graduate fellowships/scholarships) t
+ o notify university that they will not attend. See the schedule of refunds
+  for more information.
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:umpw@undefined
+UID:pkin@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200928
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Quarter begins
-X-ALT-DESC;FMTTYPE=text/html:Quarter begins
+SUMMARY:Fall20 Quarter begins
+DESCRIPTION:Quarter begins
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Quarter begins
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:08xa@undefined
+UID:c6hk@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Quarter begins
-X-ALT-DESC;FMTTYPE=text/html:Quarter begins
+SUMMARY:Winter21 Quarter begins
+DESCRIPTION:Quarter begins
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Quarter begins
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jpac@undefined
+UID:4k80@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210324
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Quarter begins
-X-ALT-DESC;FMTTYPE=text/html:Quarter begins
+SUMMARY:Spring21 Quarter begins
+DESCRIPTION:Quarter begins
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Quarter begins
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:q13h@undefined
+UID:pko0@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200930
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Late registration fee payment deadline (to avoid being dro
- pped from enrolled classes or wait listed courses)
-X-ALT-DESC;FMTTYPE=text/html:Late registration fee payment deadline (to av
- oid being dropped from enrolled classes or wait listed courses)
+SUMMARY:Fall20 Late registration fee payment deadline (to avoid being drop
+ ped from enrolled classes or wait listed courses)
+DESCRIPTION:Late registration fee payment deadline (to avoid being dropped
+  from enrolled classes or wait listed courses)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Late registration fee payment deadline (to avoid being 
+ dropped from enrolled classes or wait listed courses)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:h4tq@undefined
+UID:zyr4@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Late registration fee payment deadline (to avoid being d
- ropped from enrolled classes or wait listed courses)
-X-ALT-DESC;FMTTYPE=text/html:Late registration fee payment deadline (to av
- oid being dropped from enrolled classes or wait listed courses)
+SUMMARY:Winter21 Late registration fee payment deadline (to avoid being dr
+ opped from enrolled classes or wait listed courses)
+DESCRIPTION:Late registration fee payment deadline (to avoid being dropped
+  from enrolled classes or wait listed courses)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Late registration fee payment deadline (to avoid bein
+ g dropped from enrolled classes or wait listed courses)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:49g7@undefined
+UID:vue9@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210329
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Late registration fee payment deadline (to avoid being d
- ropped from enrolled classes or wait listed courses)
-X-ALT-DESC;FMTTYPE=text/html:Late registration fee payment deadline (to av
- oid being dropped from enrolled classes or wait listed courses)
+SUMMARY:Spring21 Late registration fee payment deadline (to avoid being dr
+ opped from enrolled classes or wait listed courses)
+DESCRIPTION:Late registration fee payment deadline (to avoid being dropped
+  from enrolled classes or wait listed courses)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Late registration fee payment deadline (to avoid bein
+ g dropped from enrolled classes or wait listed courses)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6dlu@undefined
+UID:rrxj@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201001
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: First day of classes
-X-ALT-DESC;FMTTYPE=text/html:First day of classes
+SUMMARY:Fall20 First day of classes
+DESCRIPTION:First day of classes
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 First day of classes
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e0lf@undefined
+UID:661k@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210104
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: First day of classes
-X-ALT-DESC;FMTTYPE=text/html:First day of classes
+SUMMARY:Winter21 First day of classes
+DESCRIPTION:First day of classes
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 First day of classes
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:831x@undefined
+UID:wglo@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210329
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: First day of classes
-X-ALT-DESC;FMTTYPE=text/html:First day of classes
+SUMMARY:Spring21 First day of classes
+DESCRIPTION:First day of classes
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 First day of classes
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:s00t@undefined
+UID:mpy0@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20200909
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Late health insurance fee waiver deadline (no waivers will
-  be accepted beyond this date)
-X-ALT-DESC;FMTTYPE=text/html:Late health insurance fee waiver deadline (no
-  waivers will be accepted beyond this date)
+SUMMARY:Fall20 Late health insurance fee waiver deadline (no waivers will 
+ be accepted beyond this date)
+DESCRIPTION:Late health insurance fee waiver deadline (no waivers will be 
+ accepted beyond this date)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Late health insurance fee waiver deadline (no waivers w
+ ill be accepted beyond this date)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:q99a@undefined
+UID:lkpz@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20211230
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Late health insurance fee waiver deadline (no waivers wi
- ll be accepted beyond this date)
-X-ALT-DESC;FMTTYPE=text/html:Late health insurance fee waiver deadline (no
-  waivers will be accepted beyond this date)
+SUMMARY:Winter21 Late health insurance fee waiver deadline (no waivers wil
+ l be accepted beyond this date)
+DESCRIPTION:Late health insurance fee waiver deadline (no waivers will be 
+ accepted beyond this date)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Late health insurance fee waiver deadline (no waivers
+  will be accepted beyond this date)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:n5x9@undefined
+UID:qhek@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210312
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Late health insurance fee waiver deadline (no waivers wi
- ll be accepted beyond this date)
-X-ALT-DESC;FMTTYPE=text/html:Late health insurance fee waiver deadline (no
-  waivers will be accepted beyond this date)
+SUMMARY:Spring21 Late health insurance fee waiver deadline (no waivers wil
+ l be accepted beyond this date)
+DESCRIPTION:Late health insurance fee waiver deadline (no waivers will be 
+ accepted beyond this date)
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Late health insurance fee waiver deadline (no waivers
+  will be accepted beyond this date)
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6qby@undefined
+UID:z4fe@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201015
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Automatic wait lists officially end
-X-ALT-DESC;FMTTYPE=text/html:Automatic wait lists officially end
+SUMMARY:Fall20 Automatic wait lists officially end
+DESCRIPTION:Automatic wait lists officially end
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Automatic wait lists officially end
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:aghq@undefined
+UID:axb6@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210114
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Automatic wait lists officially end
-X-ALT-DESC;FMTTYPE=text/html:Automatic wait lists officially end
+SUMMARY:Winter21 Automatic wait lists officially end
+DESCRIPTION:Automatic wait lists officially end
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Automatic wait lists officially end
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9tc9@undefined
+UID:j3is@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210408
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Automatic wait lists officially end
-X-ALT-DESC;FMTTYPE=text/html:Automatic wait lists officially end
+SUMMARY:Spring21 Automatic wait lists officially end
+DESCRIPTION:Automatic wait lists officially end
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Automatic wait lists officially end
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5b5j@undefined
+UID:7vpn@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201016
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline for all students to add or re-enroll in classes i
- f canceled for non-payment via WebReg. Find out how to add a class.
-X-ALT-DESC;FMTTYPE=text/html:Deadline for all students to add or re-enroll
-  in classes if canceled for non-payment via WebReg. Find out how to <a hre
- f=\"https://students.ucsd.edu/academics/enroll/undergraduate-enrollment/ad
- d-a-class.html\">add a class.</a>
+SUMMARY:Fall20 Deadline for all students to add or re-enroll in classes if
+  canceled for non-payment via WebReg. Find out how to add a class.
+DESCRIPTION:Deadline for all students to add or re-enroll in classes if ca
+ nceled for non-payment via WebReg. Find out how to <a href=\"https://stude
+ nts.ucsd.edu/academics/enroll/undergraduate-enrollment/add-a-class.html\">
+ add a class.</a>
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline for all students to add or re-enroll in classe
+ s if canceled for non-payment via WebReg. Find out how to add a class.
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0kj6@undefined
+UID:tgnx@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210115
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline for all students to add or re-enroll in classes
-  if canceled for non-payment via WebReg. Find out how to add a class.
-X-ALT-DESC;FMTTYPE=text/html:Deadline for all students to add or re-enroll
-  in classes if canceled for non-payment via WebReg. Find out how to <a hre
- f=\"https://students.ucsd.edu/academics/enroll/undergraduate-enrollment/ad
- d-a-class.html\">add a class.</a>
+SUMMARY:Winter21 Deadline for all students to add or re-enroll in classes 
+ if canceled for non-payment via WebReg. Find out how to add a class.
+DESCRIPTION:Deadline for all students to add or re-enroll in classes if ca
+ nceled for non-payment via WebReg. Find out how to <a href=\"https://stude
+ nts.ucsd.edu/academics/enroll/undergraduate-enrollment/add-a-class.html\">
+ add a class.</a>
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline for all students to add or re-enroll in clas
+ ses if canceled for non-payment via WebReg. Find out how to add a class.
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:o9o6@undefined
+UID:ocgh@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline for all students to add or re-enroll in classes
-  if canceled for non-payment via WebReg. Find out how to add a class.
-X-ALT-DESC;FMTTYPE=text/html:Deadline for all students to add or re-enroll
-  in classes if canceled for non-payment via WebReg. Find out how to <a hre
- f=\"https://students.ucsd.edu/academics/enroll/undergraduate-enrollment/ad
- d-a-class.html\">add a class.</a>
+SUMMARY:Spring21 Deadline for all students to add or re-enroll in classes 
+ if canceled for non-payment via WebReg. Find out how to add a class.
+DESCRIPTION:Deadline for all students to add or re-enroll in classes if ca
+ nceled for non-payment via WebReg. Find out how to <a href=\"https://stude
+ nts.ucsd.edu/academics/enroll/undergraduate-enrollment/add-a-class.html\">
+ add a class.</a>
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline for all students to add or re-enroll in clas
+ ses if canceled for non-payment via WebReg. Find out how to add a class.
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kkfj@undefined
+UID:yydu@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201016
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline to apply for part-time status
-X-ALT-DESC;FMTTYPE=text/html:Deadline to <a href=\"http://students.ucsd.ed
- u/academics/enroll/special-enrollment/parttime-halftime-study/part-time-st
- udy.html\">apply for part-time status</a>
+SUMMARY:Fall20 Deadline to apply for part-time status
+DESCRIPTION:Deadline to <a href=\"http://students.ucsd.edu/academics/enrol
+ l/special-enrollment/parttime-halftime-study/part-time-study.html\">apply 
+ for part-time status</a>
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline to apply for part-time status
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6v1t@undefined
+UID:klmb@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210115
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline to apply for part-time status
-X-ALT-DESC;FMTTYPE=text/html:Deadline to <a href=\"http://students.ucsd.ed
- u/academics/enroll/special-enrollment/parttime-halftime-study/part-time-st
- udy.html\">apply for part-time status</a>
+SUMMARY:Winter21 Deadline to apply for part-time status
+DESCRIPTION:Deadline to <a href=\"http://students.ucsd.edu/academics/enrol
+ l/special-enrollment/parttime-halftime-study/part-time-study.html\">apply 
+ for part-time status</a>
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline to apply for part-time status
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:komg@undefined
+UID:b54b@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline to apply for part-time status
-X-ALT-DESC;FMTTYPE=text/html:Deadline to <a href=\"http://students.ucsd.ed
- u/academics/enroll/special-enrollment/parttime-halftime-study/part-time-st
- udy.html\">apply for part-time status</a>
+SUMMARY:Spring21 Deadline to apply for part-time status
+DESCRIPTION:Deadline to <a href=\"http://students.ucsd.edu/academics/enrol
+ l/special-enrollment/parttime-halftime-study/part-time-study.html\">apply 
+ for part-time status</a>
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline to apply for part-time status
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6w7o@undefined
+UID:htdk@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201016
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline for Graduate students to file for leave of absenc
- e \, in absentia or to apply for half-time status for current quarter
-X-ALT-DESC;FMTTYPE=text/html:Deadline for Graduate students to <a href=\"h
- ttps://grad.ucsd.edu/academics/enrolling/leave-absence-withdrawal.html\">f
- ile for leave of absence</a> \, in absentia or to apply for <a href=\"http
- ://students.ucsd.edu/academics/enroll/special-enrollment/parttime-halftime
- -study/halftime-study.html\">half-time</a> statusfor current quarter
+SUMMARY:Fall20 Deadline for Graduate students to file for leave of absence
+  \, in absentia or to apply for half-time status for current quarter
+DESCRIPTION:Deadline for Graduate students to <a href=\"https://grad.ucsd.
+ edu/academics/enrolling/leave-absence-withdrawal.html\">file for leave of 
+ absence</a> \, in absentia or to apply for <a href=\"http://students.ucsd.
+ edu/academics/enroll/special-enrollment/parttime-halftime-study/halftime-s
+ tudy.html\">half-time</a> statusfor current quarter
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline for Graduate students to file for leave of abs
+ ence \, in absentia or to apply for half-time status for current quarter
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zisy@undefined
+UID:j5rg@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210115
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline for Graduate students to file for leave of abse
- nce \, in absentia or to apply for half-time status for current quarter
-X-ALT-DESC;FMTTYPE=text/html:Deadline for Graduate students to <a href=\"h
- ttps://grad.ucsd.edu/academics/enrolling/leave-absence-withdrawal.html\">f
- ile for leave of absence</a> \, in absentia or to apply for <a href=\"http
- ://students.ucsd.edu/academics/enroll/special-enrollment/parttime-halftime
- -study/halftime-study.html\">half-time</a> statusfor current quarter
+SUMMARY:Winter21 Deadline for Graduate students to file for leave of absen
+ ce \, in absentia or to apply for half-time status for current quarter
+DESCRIPTION:Deadline for Graduate students to <a href=\"https://grad.ucsd.
+ edu/academics/enrolling/leave-absence-withdrawal.html\">file for leave of 
+ absence</a> \, in absentia or to apply for <a href=\"http://students.ucsd.
+ edu/academics/enroll/special-enrollment/parttime-halftime-study/halftime-s
+ tudy.html\">half-time</a> statusfor current quarter
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline for Graduate students to file for leave of a
+ bsence \, in absentia or to apply for half-time status for current quarter
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:atub@undefined
+UID:uert@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline for Graduate students to file for leave of abse
- nce \, in absentia or to apply for half-time status for current quarter
-X-ALT-DESC;FMTTYPE=text/html:Deadline for Graduate students to <a href=\"h
- ttps://grad.ucsd.edu/academics/enrolling/leave-absence-withdrawal.html\">f
- ile for leave of absence</a> \, in absentia or to apply for <a href=\"http
- ://students.ucsd.edu/academics/enroll/special-enrollment/parttime-halftime
- -study/halftime-study.html\">half-time</a> statusfor current quarter
+SUMMARY:Spring21 Deadline for Graduate students to file for leave of absen
+ ce \, in absentia or to apply for half-time status for current quarter
+DESCRIPTION:Deadline for Graduate students to <a href=\"https://grad.ucsd.
+ edu/academics/enrolling/leave-absence-withdrawal.html\">file for leave of 
+ absence</a> \, in absentia or to apply for <a href=\"http://students.ucsd.
+ edu/academics/enroll/special-enrollment/parttime-halftime-study/halftime-s
+ tudy.html\">half-time</a> statusfor current quarter
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline for Graduate students to file for leave of a
+ bsence \, in absentia or to apply for half-time status for current quarter
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:hq33@undefined
+UID:wzoc@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201016
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline to file for Advancement to Candidacy for Master's
-  degrees
-X-ALT-DESC;FMTTYPE=text/html:Deadline to file for Advancement to Candidacy
-  for Master&apos\;s degrees
+SUMMARY:Fall20 Deadline to file for Advancement to Candidacy for Master's 
+ degrees
+DESCRIPTION:Deadline to file for Advancement to Candidacy for Master&apos\
+ ;s degrees
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline to file for Advancement to Candidacy for Maste
+ r's degrees
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:uod9@undefined
+UID:mqrp@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210115
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline to file for Advancement to Candidacy for Master
- 's degrees
-X-ALT-DESC;FMTTYPE=text/html:Deadline to file for Advancement to Candidacy
-  for Master&apos\;s degrees
+SUMMARY:Winter21 Deadline to file for Advancement to Candidacy for Master'
+ s degrees
+DESCRIPTION:Deadline to file for Advancement to Candidacy for Master&apos\
+ ;s degrees
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline to file for Advancement to Candidacy for Mas
+ ter's degrees
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:of8s@undefined
+UID:bxus@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210409
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline to file for Advancement to Candidacy for Master
- 's degrees
-X-ALT-DESC;FMTTYPE=text/html:Deadline to file for Advancement to Candidacy
-  for Master&apos\;s degrees
+SUMMARY:Spring21 Deadline to file for Advancement to Candidacy for Master'
+ s degrees
+DESCRIPTION:Deadline to file for Advancement to Candidacy for Master&apos\
+ ;s degrees
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline to file for Advancement to Candidacy for Mas
+ ter's degrees
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3h3g@undefined
+UID:ryw4@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201030
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline for all students to change grading option  
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for all students to <a href=\"h
- ttp://students.ucsd.edu/academics/exams-grades-transcripts/grades/change-a
- -grading-option.html\">change grading option</a></p>\n<p></p>\n<p></p>\n
+SUMMARY:Fall20 Deadline for all students to change grading option  
+DESCRIPTION:\n<p>Deadline for all students to <a href=\"http://students.uc
+ sd.edu/academics/exams-grades-transcripts/grades/change-a-grading-option.h
+ tml\">change grading option</a></p>\n<p></p>\n<p></p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline for all students to change grading option  
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:udyv@undefined
+UID:df1s@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210129
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline for all students to change grading option  
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for all students to <a href=\"h
- ttp://students.ucsd.edu/academics/exams-grades-transcripts/grades/change-a
- -grading-option.html\">change grading option</a></p>\n<p></p>\n<p></p>\n
+SUMMARY:Winter21 Deadline for all students to change grading option  
+DESCRIPTION:\n<p>Deadline for all students to <a href=\"http://students.uc
+ sd.edu/academics/exams-grades-transcripts/grades/change-a-grading-option.h
+ tml\">change grading option</a></p>\n<p></p>\n<p></p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline for all students to change grading option  
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:azdy@undefined
+UID:bwi8@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210423
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline for all students to change grading option  
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for all students to <a href=\"h
- ttp://students.ucsd.edu/academics/exams-grades-transcripts/grades/change-a
- -grading-option.html\">change grading option</a></p>\n<p></p>\n<p></p>\n
+SUMMARY:Spring21 Deadline for all students to change grading option  
+DESCRIPTION:\n<p>Deadline for all students to <a href=\"http://students.uc
+ sd.edu/academics/exams-grades-transcripts/grades/change-a-grading-option.h
+ tml\">change grading option</a></p>\n<p></p>\n<p></p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline for all students to change grading option  
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ihh6@undefined
+UID:8edm@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201030
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline for Undergraduate students to change units
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Undergraduate students to c
- hange units</p>\n
+SUMMARY:Fall20 Deadline for Undergraduate students to change units
+DESCRIPTION:\n<p>Deadline for Undergraduate students to change units</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline for Undergraduate students to change units
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2qfn@undefined
+UID:t8xm@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210129
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline for Undergraduate students to change units
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Undergraduate students to c
- hange units</p>\n
+SUMMARY:Winter21 Deadline for Undergraduate students to change units
+DESCRIPTION:\n<p>Deadline for Undergraduate students to change units</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline for Undergraduate students to change units
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6z18@undefined
+UID:thsd@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210423
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline for Undergraduate students to change units
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Undergraduate students to c
- hange units</p>\n
+SUMMARY:Spring21 Deadline for Undergraduate students to change units
+DESCRIPTION:\n<p>Deadline for Undergraduate students to change units</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline for Undergraduate students to change units
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4nw2@undefined
+UID:kjxq@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201211
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline for Graduate students to change units
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Graduate students to change
-  units</p>\n
+SUMMARY:Fall20 Deadline for Graduate students to change units
+DESCRIPTION:\n<p>Deadline for Graduate students to change units</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline for Graduate students to change units
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:pfa6@undefined
+UID:gab2@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210312
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline for Graduate students to change units
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Graduate students to change
-  units</p>\n
+SUMMARY:Winter21 Deadline for Graduate students to change units
+DESCRIPTION:\n<p>Deadline for Graduate students to change units</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline for Graduate students to change units
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1e26@undefined
+UID:dqn5@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210604
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline for Graduate students to change units
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Graduate students to change
-  units</p>\n
+SUMMARY:Spring21 Deadline for Graduate students to change units
+DESCRIPTION:\n<p>Deadline for Graduate students to change units</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline for Graduate students to change units
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cwp1@undefined
+UID:d9jc@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201030
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline to for all students to drop classes without \"W\"
-  grade on transcript
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline to for all students to drop cla
- sses without &quot\;W&quot\; grade on transcript</p>\n
+SUMMARY:Fall20 Deadline to for all students to drop classes without \"W\" 
+ grade on transcript
+DESCRIPTION:\n<p>Deadline to for all students to drop classes without &quo
+ t\;W&quot\; grade on transcript</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline to for all students to drop classes without \"
+ W\" grade on transcript
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:asog@undefined
+UID:kcvt@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210129
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline to for all students to drop classes without \"W
- \" grade on transcript
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline to for all students to drop cla
- sses without &quot\;W&quot\; grade on transcript</p>\n
+SUMMARY:Winter21 Deadline to for all students to drop classes without \"W\
+ " grade on transcript
+DESCRIPTION:\n<p>Deadline to for all students to drop classes without &quo
+ t\;W&quot\; grade on transcript</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline to for all students to drop classes without 
+ \"W\" grade on transcript
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:g2m7@undefined
+UID:gjvg@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210423
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline to for all students to drop classes without \"W
- \" grade on transcript
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline to for all students to drop cla
- sses without &quot\;W&quot\; grade on transcript</p>\n
+SUMMARY:Spring21 Deadline to for all students to drop classes without \"W\
+ " grade on transcript
+DESCRIPTION:\n<p>Deadline to for all students to drop classes without &quo
+ t\;W&quot\; grade on transcript</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline to for all students to drop classes without 
+ \"W\" grade on transcript
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:tq6s@undefined
+UID:wiz6@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201113
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline for Undergraduate students to drop with \"W\" gra
- de on transcript  
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Undergraduate students to d
- rop with &quot\;W&quot\; grade on transcript</p>\n<p></p>\n<p></p>\n
+SUMMARY:Fall20 Deadline for Undergraduate students to drop with \"W\" grad
+ e on transcript  
+DESCRIPTION:\n<p>Deadline for Undergraduate students to drop with &quot\;W
+ &quot\; grade on transcript</p>\n<p></p>\n<p></p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline for Undergraduate students to drop with \"W\" 
+ grade on transcript  
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:gyxk@undefined
+UID:5jpq@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210212
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline for Undergraduate students to drop with \"W\" g
- rade on transcript  
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Undergraduate students to d
- rop with &quot\;W&quot\; grade on transcript</p>\n<p></p>\n<p></p>\n
+SUMMARY:Winter21 Deadline for Undergraduate students to drop with \"W\" gr
+ ade on transcript  
+DESCRIPTION:\n<p>Deadline for Undergraduate students to drop with &quot\;W
+ &quot\; grade on transcript</p>\n<p></p>\n<p></p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline for Undergraduate students to drop with \"W\
+ " grade on transcript  
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2n88@undefined
+UID:vdwc@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210507
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline for Undergraduate students to drop with \"W\" g
- rade on transcript  
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Undergraduate students to d
- rop with &quot\;W&quot\; grade on transcript</p>\n<p></p>\n<p></p>\n
+SUMMARY:Spring21 Deadline for Undergraduate students to drop with \"W\" gr
+ ade on transcript  
+DESCRIPTION:\n<p>Deadline for Undergraduate students to drop with &quot\;W
+ &quot\; grade on transcript</p>\n<p></p>\n<p></p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline for Undergraduate students to drop with \"W\
+ " grade on transcript  
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0eqa@undefined
+UID:kq4z@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201204
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline for Graduate students to drop with \"W\" grade on
-  Transcript
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Graduate students to drop w
- ith &quot\;W&quot\; grade on Transcript</p>\n
+SUMMARY:Fall20 Deadline for Graduate students to drop with \"W\" grade on 
+ Transcript
+DESCRIPTION:\n<p>Deadline for Graduate students to drop with &quot\;W&quot
+ \; grade on Transcript</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline for Graduate students to drop with \"W\" grade
+  on Transcript
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:rxd4@undefined
+UID:f2pa@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210305
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline for Graduate students to drop with \"W\" grade 
- on Transcript
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Graduate students to drop w
- ith &quot\;W&quot\; grade on Transcript</p>\n
+SUMMARY:Winter21 Deadline for Graduate students to drop with \"W\" grade o
+ n Transcript
+DESCRIPTION:\n<p>Deadline for Graduate students to drop with &quot\;W&quot
+ \; grade on Transcript</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline for Graduate students to drop with \"W\" gra
+ de on Transcript
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3go0@undefined
+UID:9zuz@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210528
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline for Graduate students to drop with \"W\" grade 
- on Transcript
-X-ALT-DESC;FMTTYPE=text/html:\n<p>Deadline for Graduate students to drop w
- ith &quot\;W&quot\; grade on Transcript</p>\n
+SUMMARY:Spring21 Deadline for Graduate students to drop with \"W\" grade o
+ n Transcript
+DESCRIPTION:\n<p>Deadline for Graduate students to drop with &quot\;W&quot
+ \; grade on Transcript</p>\n
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline for Graduate students to drop with \"W\" gra
+ de on Transcript
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:iblh@undefined
+UID:szwz@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201211
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Last day of classes before finals
-X-ALT-DESC;FMTTYPE=text/html:Last day of classes before finals
+SUMMARY:Fall20 Last day of classes before finals
+DESCRIPTION:Last day of classes before finals
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Last day of classes before finals
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:hhj7@undefined
+UID:gdhz@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210312
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Last day of classes before finals
-X-ALT-DESC;FMTTYPE=text/html:Last day of classes before finals
+SUMMARY:Winter21 Last day of classes before finals
+DESCRIPTION:Last day of classes before finals
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Last day of classes before finals
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:gl67@undefined
+UID:a9hg@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210604
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Last day of classes before finals
-X-ALT-DESC;FMTTYPE=text/html:Last day of classes before finals
+SUMMARY:Spring21 Last day of classes before finals
+DESCRIPTION:Last day of classes before finals
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Last day of classes before finals
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4uxs@undefined
+UID:0iv6@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201212
+DTEND;VALUE=DATE:20201219
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Finals week
-X-ALT-DESC;FMTTYPE=text/html:Finals week
+SUMMARY:Fall20 Finals week
+DESCRIPTION:Finals week
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Finals week
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:xkg1@undefined
+UID:558i@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210313
+DTEND;VALUE=DATE:20210320
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Finals week
-X-ALT-DESC;FMTTYPE=text/html:Finals week
+SUMMARY:Winter21 Finals week
+DESCRIPTION:Finals week
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Finals week
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8ra1@undefined
+UID:6vjj@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210605
+DTEND;VALUE=DATE:20210611
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Finals week
-X-ALT-DESC;FMTTYPE=text/html:Finals week
+SUMMARY:Spring21 Finals week
+DESCRIPTION:Finals week
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Finals week
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:kf89@undefined
+UID:iptq@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201219
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline to file for \"Removal of Grade Incomplete\" from 
- previous quarter
-X-ALT-DESC;FMTTYPE=text/html:Deadline to file for &quot\;Removal of Grade 
- Incomplete&quot\; from previous quarter
+SUMMARY:Fall20 Deadline to file for \"Removal of Grade Incomplete\" from p
+ revious quarter
+DESCRIPTION:Deadline to file for &quot\;Removal of Grade Incomplete&quot\;
+  from previous quarter
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline to file for \"Removal of Grade Incomplete\" fr
+ om previous quarter
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:naip@undefined
+UID:2wk1@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210320
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline to file for \"Removal of Grade Incomplete\" fro
- m previous quarter
-X-ALT-DESC;FMTTYPE=text/html:Deadline to file for &quot\;Removal of Grade 
- Incomplete&quot\; from previous quarter
+SUMMARY:Winter21 Deadline to file for \"Removal of Grade Incomplete\" from
+  previous quarter
+DESCRIPTION:Deadline to file for &quot\;Removal of Grade Incomplete&quot\;
+  from previous quarter
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline to file for \"Removal of Grade Incomplete\" 
+ from previous quarter
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:g9hp@undefined
+UID:0eng@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210611
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline to file for \"Removal of Grade Incomplete\" fro
- m previous quarter
-X-ALT-DESC;FMTTYPE=text/html:Deadline to file for &quot\;Removal of Grade 
- Incomplete&quot\; from previous quarter
+SUMMARY:Spring21 Deadline to file for \"Removal of Grade Incomplete\" from
+  previous quarter
+DESCRIPTION:Deadline to file for &quot\;Removal of Grade Incomplete&quot\;
+  from previous quarter
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline to file for \"Removal of Grade Incomplete\" 
+ from previous quarter
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:el69@undefined
+UID:sfal@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201219
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Quarter ends
-X-ALT-DESC;FMTTYPE=text/html:Quarter ends
+SUMMARY:Fall20 Quarter ends
+DESCRIPTION:Quarter ends
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Quarter ends
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fv8q@undefined
+UID:1ztb@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210320
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Quarter ends
-X-ALT-DESC;FMTTYPE=text/html:Quarter ends
+SUMMARY:Winter21 Quarter ends
+DESCRIPTION:Quarter ends
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Quarter ends
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1r6h@undefined
+UID:w4m2@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210611
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Quarter ends
-X-ALT-DESC;FMTTYPE=text/html:Quarter ends
+SUMMARY:Spring21 Quarter ends
+DESCRIPTION:Quarter ends
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Quarter ends
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:q3zh@undefined
+UID:2x4n@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201221
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Deadline to file for a Request to receive a grade of \"Inc
- omplete\"
-X-ALT-DESC;FMTTYPE=text/html:Deadline to file for a <a href=\"http://stude
- nts.ucsd.edu/academics/exams-grades-transcripts/grades/request-remove-inco
- mplete.html\">Request to receive a grade of &quot\;Incomplete&quot\;</a>
+SUMMARY:Fall20 Deadline to file for a Request to receive a grade of \"Inco
+ mplete\"
+DESCRIPTION:Deadline to file for a <a href=\"http://students.ucsd.edu/acad
+ emics/exams-grades-transcripts/grades/request-remove-incomplete.html\">Req
+ uest to receive a grade of &quot\;Incomplete&quot\;</a>
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Deadline to file for a Request to receive a grade of \"
+ Incomplete\"
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5ouy@undefined
+UID:ccff@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210322
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Deadline to file for a Request to receive a grade of \"I
- ncomplete\"
-X-ALT-DESC;FMTTYPE=text/html:Deadline to file for a <a href=\"http://stude
- nts.ucsd.edu/academics/exams-grades-transcripts/grades/request-remove-inco
- mplete.html\">Request to receive a grade of &quot\;Incomplete&quot\;</a>
+SUMMARY:Winter21 Deadline to file for a Request to receive a grade of \"In
+ complete\"
+DESCRIPTION:Deadline to file for a <a href=\"http://students.ucsd.edu/acad
+ emics/exams-grades-transcripts/grades/request-remove-incomplete.html\">Req
+ uest to receive a grade of &quot\;Incomplete&quot\;</a>
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Deadline to file for a Request to receive a grade of 
+ \"Incomplete\"
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bpd4@undefined
+UID:z0v5@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210614
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Deadline to file for a Request to receive a grade of \"I
- ncomplete\"
-X-ALT-DESC;FMTTYPE=text/html:Deadline to file for a <a href=\"http://stude
- nts.ucsd.edu/academics/exams-grades-transcripts/grades/request-remove-inco
- mplete.html\">Request to receive a grade of &quot\;Incomplete&quot\;</a>
+SUMMARY:Spring21 Deadline to file for a Request to receive a grade of \"In
+ complete\"
+DESCRIPTION:Deadline to file for a <a href=\"http://students.ucsd.edu/acad
+ emics/exams-grades-transcripts/grades/request-remove-incomplete.html\">Req
+ uest to receive a grade of &quot\;Incomplete&quot\;</a>
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Deadline to file for a Request to receive a grade of 
+ \"Incomplete\"
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jgi8@undefined
+UID:atqp@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20201224
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Fall20: Grades available on TritonLink
-X-ALT-DESC;FMTTYPE=text/html:Grades available on TritonLink
+SUMMARY:Fall20 Grades available on TritonLink
+DESCRIPTION:Grades available on TritonLink
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Fall20 Grades available on TritonLink
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:r2ps@undefined
+UID:mn0p@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210325
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Winter21: Grades available on TritonLink
-X-ALT-DESC;FMTTYPE=text/html:Grades available on TritonLink
+SUMMARY:Winter21 Grades available on TritonLink
+DESCRIPTION:Grades available on TritonLink
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Winter21 Grades available on TritonLink
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:wlil@undefined
+UID:y8zv@undefined
 SEQUENCE:0
-DTSTAMP:20200512T202751Z
+DTSTAMP:20200513T033222Z
 DTSTART;VALUE=DATE:20210617
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
-SUMMARY:Spring21: Grades available on TritonLink
-X-ALT-DESC;FMTTYPE=text/html:Grades available on TritonLink
+SUMMARY:Spring21 Grades available on TritonLink
+DESCRIPTION:Grades available on TritonLink
 ORGANIZER;CN="UC San Diego":mailto:q5yu@cs.ucsd.edu
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Spring21 Grades available on TritonLink
+END:VALARM
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

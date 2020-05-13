@@ -29,6 +29,8 @@ request(calendar_url, function (error, response, body) {
     name: calendar_name
   });
 
+  //cal.alarms([])
+
   //const res = $('div[class=body-text]').find('a').attr('href');
 
   let header = [];
@@ -66,28 +68,28 @@ request(calendar_url, function (error, response, body) {
 
           date_str = date_str.split('-');
           let startDate_str = date_str[0].split('/');
-          let startDate = new Date(year, parseInt(startDate_str[0], 10) - 1, parseInt(startDate_str[1], 10), 11, 59);
+          let startDate = new Date(year, parseInt(startDate_str[0], 10) - 1, parseInt(startDate_str[1], 10), 23, 59);
 
           const event = cal.createEvent({
             start: startDate,
             allDay: true,
             //timezone: 'America/Los_Angeles',
             //floating: true,
-            htmlDescription: description_html,
+            summary: header[index] + ' ' + description,
+            description: description_html,
             organizer: {
               name: 'UC San Diego',
               email: 'q5yu@cs.ucsd.edu'
             },
-            summary: header[index] + ': ' + description,
-            createAlarm: {
-              type: 'display',
-              trigger: 900 // 15 minutes before event
-            }
+            status: 'confirmed',
+            alarms: [
+              { type: 'display', trigger: 900 } // 15 minutes before event
+            ]
           });
 
-          if (date_str.indexOf('-') != -1) {
+          if (date_str.length === 2) {
             let endDate_str = date_str[1].split('/');
-            let endDate = new Date(year, parseInt(endDate_str[0], 10) - 1, parseInt(endDate_str[1], 10), 11, 59);
+            let endDate = new Date(year, parseInt(endDate_str[0], 10) - 1, parseInt(endDate_str[1], 10), 23, 59);
             event.end(endDate);
           }
         }
