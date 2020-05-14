@@ -1,6 +1,6 @@
 # create-ics
 
-Create your own .ics file for UC San Diego Calendar. You can add that to your calendar app, such as Google Calendar and Outlook.
+Create your own .ics file for UC San Diego Calendar. You can add that to your calendar app, such as Google Calendar and Outlook. You can also try out with other universities.
 
 Implement with:
 
